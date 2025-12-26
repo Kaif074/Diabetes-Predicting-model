@@ -1,4 +1,3 @@
-![e05c4975-c92b-484d-9e3f-07c8e1f146ee](https://github.com/user-attachments/assets/3cf52a0c-24f5-42c5-bb4e-79891d512dab)
 
 🔬 Diabetes Prediction using Machine Learning
 A mini project developed as part of the curriculum at Bangalore Technological Institute, under the Department of Artificial Intelligence & Machine Learning. This web-based application helps predict whether a person is likely to have diabetes based on medical input parameters using a trained machine learning model.
