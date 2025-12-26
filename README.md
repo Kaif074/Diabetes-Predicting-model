@@ -3,19 +3,6 @@
 🔬 Diabetes Prediction using Machine Learning
 A mini project developed as part of the curriculum at Bangalore Technological Institute, under the Department of Artificial Intelligence & Machine Learning. This web-based application helps predict whether a person is likely to have diabetes based on medical input parameters using a trained machine learning model.
 
-🏫 University Information
-Institution: Bangalore Technological Institute, Bengaluru
-Department: Artificial Intelligence & Machine Learning
-Course: Mini Project – 6th Semester (2025)
-Guide: Mrs. Dhivya C, Assistant Professor
-HOD: Dr. G. Gayatri Tanuja, Head of Department – AI & ML
-
-👨‍💻 Team Members
-Name	                                           USN
-Eshwar Pawan Peddi	                          1BH22AI014||
-G Udhbav	                                    1BH22AI016||
-Sabari Govindhan	                            1BH22AI038||
-Tejas Halemani	                              1BH22AI054||
 
 💡 Project Overview
 This project aims to predict diabetes using a machine learning model trained on a medical dataset. The user inputs several health-related parameters, and the model returns a prediction indicating the likelihood of diabetes.
